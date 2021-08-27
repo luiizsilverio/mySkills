@@ -35,6 +35,7 @@ export default function Home() {
 				name: newSkill
 			}
 			setMySkills(oldState => [...oldState, data])
+			
 			Keyboard.dismiss() // fecha o teclado
 		}
 	}
