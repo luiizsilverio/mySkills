@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/luiizsilverio/mySkills/blob/main/assets/logo.png" /></td>
+    <td><img src="https://github.com/luiizsilverio/mySkills/blob/master/assets/logo.png" /></td>
     <td><h1>MY SKILLS</h1></td>
   </tr>
 </table>
@@ -21,9 +21,9 @@
 * __Typescript__
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/mySkills/blob/main/assets/tela1.png)
-![](https://github.com/luiizsilverio/mySkills/blob/main/assets/tela2.png)
-![](https://github.com/luiizsilverio/mySkills/blob/main/assets/tela3.png)
+![](https://github.com/luiizsilverio/mySkills/blob/master/assets/tela1.png)
+![](https://github.com/luiizsilverio/mySkills/blob/master/assets/tela2.png)
+![](https://github.com/luiizsilverio/mySkills/blob/master/assets/tela3.png)
 
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
