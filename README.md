@@ -21,9 +21,13 @@
 * __Typescript__
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/mySkills/blob/master/assets/tela1.png)
-![](https://github.com/luiizsilverio/mySkills/blob/master/assets/tela2.png)
-![](https://github.com/luiizsilverio/mySkills/blob/master/assets/tela3.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/luiizsilverio/mySkills/blob/master/assets/tela1.png" /></td>
+    <td><img src="https://github.com/luiizsilverio/mySkills/blob/master/assets/tela2.png" /></td>
+    <td><img src="https://github.com/luiizsilverio/mySkills/blob/master/assets/tela3.png" /></td>
+  </tr>
+</table>
 
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
